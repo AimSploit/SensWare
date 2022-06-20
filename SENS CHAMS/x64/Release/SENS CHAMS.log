@@ -1,0 +1,13 @@
+﻿  main.cpp
+F:\SENS CHAMS\SENS CHAMS\memory.h(30,62): warning C4244: argument: uintptr_t se převádí na DWORD; může dojít ke ztrátě dat.
+F:\SENS CHAMS\SENS CHAMS\memory.h(53,71): warning C4244: argument: const uintptr_t se převádí na DWORD; může dojít ke ztrátě dat.
+F:\SENS CHAMS\SENS CHAMS\main.cpp(43,116): warning C4244: argument: uintptr_t se převádí na const T; může dojít ke ztrátě dat.
+          with
+          [
+              T=int32_t
+          ]
+  Vytváří se kód.
+  Previous IPDB not found, fall back to full compilation.
+  All 64 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Vytváření kódu se dokončilo.
+  SENS CHAMS.vcxproj -> F:\SENS CHAMS\x64\Release\SENS CHAMS.exe
