@@ -1,9 +1,0 @@
-﻿  main.cpp
-F:\SENS CHAMS\SENS CHAMS\memory.h(30,62): warning C4244: argument: uintptr_t se převádí na DWORD; může dojít ke ztrátě dat.
-F:\SENS CHAMS\SENS CHAMS\memory.h(53,71): warning C4244: argument: const uintptr_t se převádí na DWORD; může dojít ke ztrátě dat.
-F:\SENS CHAMS\SENS CHAMS\main.cpp(43,116): warning C4244: argument: uintptr_t se převádí na const T; může dojít ke ztrátě dat.
-          with
-          [
-              T=int32_t
-          ]
-  SENS CHAMS.vcxproj -> F:\SENS CHAMS\x64\Debug\SENS CHAMS.exe

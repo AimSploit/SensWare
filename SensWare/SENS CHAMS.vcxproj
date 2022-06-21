@@ -24,7 +24,7 @@
     <ProjectGuid>{5fa11acc-65e0-4b9e-b9c6-8d5eed8d34c8}</ProjectGuid>
     <RootNamespace>SENSCHAMS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>SemsWare</ProjectName>
+    <ProjectName>SensWare</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -1,7 +1,0 @@
-﻿  main.cpp
-F:\SENS CHAMS\SENS CHAMS\vector.h(18): warning C4172: Vrací adresu lokální proměnné nebo dočasné.
-F:\SENS CHAMS\SENS CHAMS\vector.h(26): warning C4172: Vrací adresu lokální proměnné nebo dočasné.
-F:\SENS CHAMS\SENS CHAMS\vector.h(22): warning C4172: Vrací adresu lokální proměnné nebo dočasné.
-F:\SENS CHAMS\SENS CHAMS\vector.h(14): warning C4172: Vrací adresu lokální proměnné nebo dočasné.
-F:\SENS CHAMS\SENS CHAMS\vector.h(30): warning C4172: Vrací adresu lokální proměnné nebo dočasné.
-  SENS CHAMS.vcxproj -> F:\SENS CHAMS\Debug\SENS CHAMS.exe
