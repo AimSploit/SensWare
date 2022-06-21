@@ -11,6 +11,6 @@ STATUS: <span style="color:green;">Undetected</span>
 >You can check out the full license [here](https://github.com/AimSploit/FreeSploit/blob/main/LICENSE)
 
 This project is licensed under the terms of the **PacSoft Software** license.
-
+## Info
 >Download [here](https://github.com/AimSploit/SensWare/releases)
 >Cheat works as of 6/21/22
