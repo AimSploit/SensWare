@@ -12,8 +12,5 @@ STATUS: <span style="color:green;">Undetected</span>
 
 This project is licensed under the terms of the **PacSoft Software** license.
 
-### Working Versions
-
-| Version | Working            |
-| ------- | ------------------ |
-| 1.0     | ✔️ |
+>Download [here](https://github.com/AimSploit/SensWare/releases)
+>Cheat works as of 6/21/22
