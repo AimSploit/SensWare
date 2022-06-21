@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SensWare", "SensWare\SENS CHAMS.vcxproj", "{5FA11ACC-65E0-4B9E-B9C6-8D5EED8D34C8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SENS CHAMS", "SENS CHAMS\SENS CHAMS.vcxproj", "{5FA11ACC-65E0-4B9E-B9C6-8D5EED8D34C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
