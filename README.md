@@ -3,6 +3,8 @@ SensWare
 STATUS: <span style="color:green;">Undetected</span>
 - Customizable visuals and aimbot
 - Offsets are updated very fast
+- Dont forget to compile in x86 Release
+- Made in C++20
 - Made by [PacSoft](https://pacsoft.xyz)
 > Join our [Discord](https://dsc.gg/sens-network)
 ## License
