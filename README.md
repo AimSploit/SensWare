@@ -13,4 +13,6 @@ STATUS: <font color="yellow">Unknown</font>
 This project is licensed under the terms of the **PacSoft Software** license.
 ## Info
 >Download [here](https://github.com/AimSploit/SensWare/releases)
->Cheat works as of 6/21/22
+>Cheat works as of 29/6/22
+## WARNING
+-This cheat will not be update from 1.7.22 to 18.7.22
