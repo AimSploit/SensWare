@@ -1,6 +1,6 @@
 SensWare
 ============
-STATUS: <font color="yellow">Unknown</font>
+STATUS: <font color="yellow">Undetected</font>
 - Customizable visuals and aimbot
 - Offsets are updated very fast
 - Dont forget to compile in x86 Release
