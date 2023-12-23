@@ -1,13 +1,12 @@
 SensWare
 ============
-STATUS: I might update to CS2 but yeah things are bad with me but *might* work on CS:GO-Legacy
-
+STATUS: I have made a CS:2 version that will be public in 2024.
 - Customizable visuals and aimbot
-- Offsets are updated very fast
+- Offsets aren't updated very fast
 - Dont forget to compile in x86 Release
 - Made in C++20
 - Made by [PacSoft](https://pacsoft.xyz)
-> We do not have a Discord server
+> We do not have a Discord server!
 ## License
 >You can check out the full license [here](https://github.com/AimSploit/FreeSploit/blob/main/LICENSE)
 
